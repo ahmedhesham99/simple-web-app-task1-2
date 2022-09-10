@@ -1,0 +1,45 @@
+#o {
+
+    float: right;
+}
+
+#logo2{
+float: left;
+}
+#logo3{
+float: right;
+}
+#logo4{
+float: right;
+}
+#logo5{
+
+float: left;
+}
+
+
+
+.link {
+
+background-color: blue;
+color:red;
+font-size: large;
+text-decoration: none;
+border-radius: 25px;
+padding: 10px;
+}
+
+.footer{
+
+width: 33%;
+float: left;
+background-color: royalblue;
+color: black;
+font-size: large;
+height: 200px;
+}
+
+
+
+
+
